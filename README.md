@@ -56,4 +56,6 @@
 - **관련 포스팅**
     - https://bangbaeking.tistory.com/163
 
+## Related Posts
+- [[Database] MongoDB와 RDB의 차이점 (Master-Slave와 Sharding)](https://bangbaeking.tistory.com/158)
 
